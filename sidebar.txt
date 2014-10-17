@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kem:home|Door43 (kem)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kem|d43-kem repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kem/archive/master.zip|d43-kem.zip]]
+
+**Recent Changes**
+{{changes>ns = kem}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kem|Ethnologue data]]
+
